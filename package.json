@@ -28,7 +28,7 @@
     "babel-register": "^6.26.0",
     "chai": "^3.4.1",
     "del": "^2.2.0",
-    "eslint": "^2.8.0",
+    "eslint": "^8.56.0",
     "eslint-config-airbnb": "^8.0.0",
     "eslint-plugin-import": "^1.6.1",
     "gulp": "^3.9.1",
